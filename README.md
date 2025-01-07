@@ -1,8 +1,8 @@
-#PDF Utility Suite
+# PDF Utility Suite
 
 Welcome to PDF Utility Suite! This project is an all-in-one solution for working with PDF files. Whether you need to convert images to PDFs, split large PDFs into smaller files, or merge multiple PDFs into one, this application has you covered.
 
-Features
+# Features
 
 1. Image to PDF Conversion
 
@@ -30,7 +30,7 @@ Reset functionality to reload the UI for new operations.
 
 How to Use
 
-Prerequisites
+# Prerequisites
 
 Python 3.8 or higher installed on your system.
 
@@ -112,11 +112,11 @@ git push origin feature-name
 
 Open a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Credits
+# Credits
 
 Developed by Swapnil. Visit again for more exciting tools and utilities!
 
